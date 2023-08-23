@@ -4,3 +4,6 @@ D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.exe.config
 D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.exe
 D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.pdb
 D:\ITD\ITD_Intership_BE\ITD\obj\Debug\ITD_Intership_BE_TranNgocHieuThao.csprojResolveAssemblyReference.cache
+D:\ITD\ITD_Intership_BE_HieuThao\ITD\bin\Debug\ITD.exe.config
+D:\ITD\ITD_Intership_BE_HieuThao\ITD\obj\Debug\ITD.exe
+D:\ITD\ITD_Intership_BE_HieuThao\ITD\obj\Debug\ITD.pdb
