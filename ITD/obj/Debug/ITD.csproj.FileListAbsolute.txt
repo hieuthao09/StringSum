@@ -1,0 +1,13 @@
+D:\ITD\ITD\ITD\bin\Debug\ITD.exe.config
+D:\ITD\ITD\ITD\bin\Debug\ITD.exe
+D:\ITD\ITD\ITD\bin\Debug\ITD.pdb
+D:\ITD\ITD\ITD\obj\Debug\ITD.csprojResolveAssemblyReference.cache
+D:\ITD\ITD\ITD\obj\Debug\ITD.exe
+D:\ITD\ITD\ITD\obj\Debug\ITD.pdb
+D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.exe.config
+D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.exe
+D:\ITD\ITD_Intership_BE\ITD\bin\Debug\ITD.pdb
+D:\ITD\ITD_Intership_BE\ITD\obj\Debug\ITD.csproj.AssemblyReference.cache
+D:\ITD\ITD_Intership_BE\ITD\obj\Debug\ITD.csproj.CoreCompileInputs.cache
+D:\ITD\ITD_Intership_BE\ITD\obj\Debug\ITD.exe
+D:\ITD\ITD_Intership_BE\ITD\obj\Debug\ITD.pdb
